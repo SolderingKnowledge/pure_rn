@@ -8,7 +8,7 @@
 
 
 ## Note: 
-
+`$ npm install` at the root folder to install dependencies
 
 
 
